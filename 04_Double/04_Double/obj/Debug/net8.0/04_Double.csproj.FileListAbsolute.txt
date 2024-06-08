@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\bin\Debug\net8.0\04_Double.exe
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\bin\Debug\net8.0\04_Double.deps.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\bin\Debug\net8.0\04_Double.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\bin\Debug\net8.0\04_Double.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\bin\Debug\net8.0\04_Double.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.sourcelink.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\refint\04_Double.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\04_Double.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\04_Double\04_Double\obj\Debug\net8.0\ref\04_Double.dll
