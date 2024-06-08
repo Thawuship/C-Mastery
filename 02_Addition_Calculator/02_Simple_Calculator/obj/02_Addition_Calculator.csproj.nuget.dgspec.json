@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Simple_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj": {}
+    "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Addition_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Simple_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj": {
+    "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Addition_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Simple_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Addition_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj",
         "projectName": "02_Addition_Calculator",
-        "projectPath": "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Simple_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj",
+        "projectPath": "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Addition_Calculator\\02_Simple_Calculator\\02_Addition_Calculator.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Simple_Calculator\\02_Simple_Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Documents\\GitHub\\C-Sharp-Mastery\\02_Addition_Calculator\\02_Simple_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
