@@ -1,4 +1,6 @@
 # Output<br><br>
-Enter something!<br>
-Hello<br>
-You entered: Hello<br>
+Enter First Number<br>
+23<br>
+Enter Second Number<br>
+665<br>
+Total: 688
