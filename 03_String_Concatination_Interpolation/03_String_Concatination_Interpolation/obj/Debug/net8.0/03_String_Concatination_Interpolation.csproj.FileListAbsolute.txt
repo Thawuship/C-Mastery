@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.sourcelink.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\bin\Debug\net8.0\03_String_Concatination_Interpolation.exe
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\bin\Debug\net8.0\03_String_Concatination_Interpolation.deps.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\bin\Debug\net8.0\03_String_Concatination_Interpolation.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\bin\Debug\net8.0\03_String_Concatination_Interpolation.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\bin\Debug\net8.0\03_String_Concatination_Interpolation.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\refint\03_String_Concatination_Interpolation.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\03_String_Concatination_Interpolation.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\03_String_Concatination_Interpolation\03_String_Concatination_Interpolation\obj\Debug\net8.0\ref\03_String_Concatination_Interpolation.dll

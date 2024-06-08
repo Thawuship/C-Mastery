@@ -4,8 +4,6 @@
 Console.WriteLine("Enter First Number");
 
 // takes the user input and store it
-// variable with the name "userInput and the data type "string"
-// strings are used for text
 string userInput1 = Console.ReadLine(); 
 Console.WriteLine("Enter Second Number");
 string userInput2 = Console.ReadLine();
@@ -16,5 +14,7 @@ int number2 = int.Parse(userInput2);
 
 // Add the numbers and print the total
 int total = number1 + number2;
+
+Console.WriteLine($"First Number is {number1}, Second Number is {number2}");
 Console.WriteLine("Total: " + total);
 Console.ReadKey();
