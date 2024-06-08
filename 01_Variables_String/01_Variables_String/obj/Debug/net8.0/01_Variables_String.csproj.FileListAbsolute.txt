@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\bin\Debug\net8.0\01_Variables_String.exe
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\bin\Debug\net8.0\01_Variables_String.deps.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\bin\Debug\net8.0\01_Variables_String.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\bin\Debug\net8.0\01_Variables_String.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\bin\Debug\net8.0\01_Variables_String.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.sourcelink.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\refint\01_Variables_String.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\01_Variables_String.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\01_Variables_String\01_Variables_String\obj\Debug\net8.0\ref\01_Variables_String.dll

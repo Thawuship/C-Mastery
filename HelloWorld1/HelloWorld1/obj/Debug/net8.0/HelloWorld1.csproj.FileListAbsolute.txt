@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net8.0\HelloWorld1.exe
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net8.0\HelloWorld1.deps.json
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net8.0\HelloWorld1.runtimeconfig.json
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net8.0\HelloWorld1.dll
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net8.0\HelloWorld1.pdb
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.dll
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\refint\HelloWorld1.dll
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.pdb
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\HelloWorld1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net8.0\ref\HelloWorld1.dll
