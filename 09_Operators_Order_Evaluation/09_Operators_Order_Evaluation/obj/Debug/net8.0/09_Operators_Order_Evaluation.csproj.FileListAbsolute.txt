@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\bin\Debug\net8.0\09_Operators_Order_Evaluation.exe
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\bin\Debug\net8.0\09_Operators_Order_Evaluation.deps.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\bin\Debug\net8.0\09_Operators_Order_Evaluation.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\bin\Debug\net8.0\09_Operators_Order_Evaluation.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\bin\Debug\net8.0\09_Operators_Order_Evaluation.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.sourcelink.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\refint\09_Operators_Order_Evaluation.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\09_Operators_Order_Evaluation.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\09_Operators_Order_Evaluation\09_Operators_Order_Evaluation\obj\Debug\net8.0\ref\09_Operators_Order_Evaluation.dll
