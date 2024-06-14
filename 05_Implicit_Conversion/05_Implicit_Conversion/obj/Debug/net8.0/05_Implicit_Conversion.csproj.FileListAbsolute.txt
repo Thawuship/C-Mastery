@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\bin\Debug\net8.0\05_Implicit_Conversion.exe
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\bin\Debug\net8.0\05_Implicit_Conversion.deps.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\bin\Debug\net8.0\05_Implicit_Conversion.runtimeconfig.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\bin\Debug\net8.0\05_Implicit_Conversion.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\bin\Debug\net8.0\05_Implicit_Conversion.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.AssemblyInfo.cs
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.sourcelink.json
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\refint\05_Implicit_Conversion.dll
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.pdb
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\05_Implicit_Conversion.genruntimeconfig.cache
+C:\Users\Hp\Documents\GitHub\C-Sharp-Mastery\05_Implicit_Conversion\05_Implicit_Conversion\obj\Debug\net8.0\ref\05_Implicit_Conversion.dll
